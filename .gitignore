@@ -2,6 +2,7 @@ wp-content/uploads/*
 /data/
 !*/data/
 .htaccess
+!wp-content/database/.htaccess
 .DS_Store
 license.txt
 readme.html
